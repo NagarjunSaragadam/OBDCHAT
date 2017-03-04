@@ -11,8 +11,7 @@
     <preference name="target-device" value="universal" />
     <preference name="fullscreen" value="false" />
     <preference name="KeyboardShrinksView" value="true" />
-    <preference name="DisallowOverscroll" value="true" />
-    <access origin="*" />
+    <preference name="DisallowOverscroll" value="true" />    
      <plugin name="cordova-plugin-battery-status" source="npm" />
     <plugin name="cordova-plugin-camera" source="npm" />
     <plugin name="cordova-plugin-device" source="npm" />
